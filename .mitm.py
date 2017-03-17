@@ -141,7 +141,7 @@ if __name__ == '__main__':
     M. .MMM'  M M  MMM  MMM  M M. .MMM'  M
     Mb.     .dM M  MMM  MMM  M Mb.     .dM
     MMMMMMMMMMM MMMMMMMMMMMMMM MMMMMMMMMMM \n''')
-    print("    {0}".format("Simple MitM Script [SMS] By:n0neXn0ne \n"))
+    print("    {0}".format("Simple MitM Script [SMS] By:mr.raedCTD \n"))
     try:
       run_scan = ('y', 'Y', 'yes', 'Yes', 'YES')
       scan_victims = raw_input(Escape + Lyel +
